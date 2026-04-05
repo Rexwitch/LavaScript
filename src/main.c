@@ -13,6 +13,7 @@ int main() {
   float scale = 0.05f;
   float time = 0.1f;
   tb_init();
+  tb_hide_cursor();
 
   while (1) {
    struct tb_event ev;

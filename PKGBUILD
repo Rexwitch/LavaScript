@@ -6,3 +6,4 @@ arch=('x86_64')
 url="https://github.com/Rexwitch/LavaScript"
 license=('MIT')
 depends=()
+#not ready 
