@@ -1,11 +1,13 @@
 # LavaScript
 simple terminal program simulating lava lamp , using stb_perlin.h and termbox2 
 ***
-install:```
+install:
+```
 git clone https://github.com/Rexwitch/LavaScript.git
 cd LavaScript
 sudo make install
-LavaScript 
+LavaScript
+ 
 ```
 div align="center">
 
